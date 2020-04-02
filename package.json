@@ -1,0 +1,15 @@
+{
+  "name": "03-project",
+  "version": "0.0.1",
+  "description": "curso",
+  "main": "app.js",
+  "scripts": {
+    "test": "\u001b[19~\u001b[19~\u001b[19~"
+  },
+  "author": "Sergio penagos",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.3.1"
+  }
+}
